@@ -134,5 +134,5 @@ int main(){
             default:
                 cout<<"Enter another option";
                 break;
-    }}while (choice!=0);
+    }}
 }
