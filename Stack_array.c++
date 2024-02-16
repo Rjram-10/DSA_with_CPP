@@ -6,7 +6,7 @@
 Program down is given showing the operation of stack using arrays*/
 #include<iostream>
 #include<string>
-using namespace std;
+using namespace std; 
 
     class stack{
         private:
