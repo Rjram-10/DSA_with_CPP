@@ -2,7 +2,7 @@
 1.Used  for Undo-Redo function in program by storing the progess in stack like structure
 2.Balancing of symbols in programming language
 3.Forward-backward function in browser
-4.Multiple algorithm like Tower of Hanoi
+4.Multiple algorithm like Tower of Hanoi 
 Program down is given showing the operation of stack using arrays*/
 #include<iostream>
 #include<string>
