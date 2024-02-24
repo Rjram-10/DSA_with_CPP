@@ -10,7 +10,7 @@ using namespace std;
 
     class stack{
         private:
-            int top;
+            int top; 
             int arr[5];
         public:
             stack(){
