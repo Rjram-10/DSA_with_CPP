@@ -3,9 +3,7 @@
 2.Balancing of symbols in programming language
 3.Forward-backward function in browser
 4.Multiple algorithm like Tower of Hanoi 
-Program down is given showing the operation of stack using arrays*/
-#include<iostream>
-#include<string>
+Program down is given showing the operation 
 using namespace std; 
 
     class stack{
