@@ -6,7 +6,7 @@
 Program down is given showing the operation 
 using namespace std; 
 
-    class stack{
+    class stack{  
         private:
             int top; 
             int arr[5];
