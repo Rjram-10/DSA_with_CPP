@@ -6,7 +6,7 @@ using namespace std;
 class Queue{
     private:
         int front,rear;
-        int len;
+        int len; 
         int arr[0];
         int count=0;
         
